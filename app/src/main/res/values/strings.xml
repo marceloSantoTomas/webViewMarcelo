@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">webViewMarcelo</string>
+
+
+    <string name="txtLink">Ingresa Un link</string>
+    <string name="btnCopiarLink">CARGAR Link</string>
+</resources>
